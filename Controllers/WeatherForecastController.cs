@@ -29,4 +29,9 @@ public class WeatherForecastController : ControllerBase
         })
         .ToArray();
     }
+
+    [HttpGet(Name ="Add")]
+    public IActionResult Add(int a, int b){
+        return Ok(a+b);
+    }
 }

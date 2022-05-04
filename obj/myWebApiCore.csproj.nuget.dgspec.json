@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Samba\\SampleApplicationDev\\myWebApiCore\\myWebApiCore.csproj": {}
+    "c:\\Samba\\SampleApplicationDev\\myWebApiCore\\myWebApiCore.csproj": {}
   },
   "projects": {
-    "C:\\Samba\\SampleApplicationDev\\myWebApiCore\\myWebApiCore.csproj": {
+    "c:\\Samba\\SampleApplicationDev\\myWebApiCore\\myWebApiCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Samba\\SampleApplicationDev\\myWebApiCore\\myWebApiCore.csproj",
+        "projectUniqueName": "c:\\Samba\\SampleApplicationDev\\myWebApiCore\\myWebApiCore.csproj",
         "projectName": "myWebApiCore",
-        "projectPath": "C:\\Samba\\SampleApplicationDev\\myWebApiCore\\myWebApiCore.csproj",
+        "projectPath": "c:\\Samba\\SampleApplicationDev\\myWebApiCore\\myWebApiCore.csproj",
         "packagesPath": "C:\\Users\\14089\\.nuget\\packages\\",
-        "outputPath": "C:\\Samba\\SampleApplicationDev\\myWebApiCore\\obj\\",
+        "outputPath": "c:\\Samba\\SampleApplicationDev\\myWebApiCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

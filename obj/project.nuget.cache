@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yC9EbYP/kbPE+I7hKH8+dkDmx0mxfm1hmBN1+McV8qkv2aYrEgdw8lzld3/a3h2FDGlxjWhgtPxDFC29hwa7hg==",
+  "dgSpecHash": "6yDsse8K6sHhMAgDv1b+pDAACwxquYtAFfyKVVGOMxX2Ws9GPBZUd3AAgQCszUlQEozNDV8IrtS/OlknTKqB5A==",
   "success": true,
-  "projectFilePath": "C:\\Samba\\SampleApplicationDev\\myWebApiCore\\myWebApiCore.csproj",
+  "projectFilePath": "c:\\Samba\\SampleApplicationDev\\myWebApiCore\\myWebApiCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\14089\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\14089\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
